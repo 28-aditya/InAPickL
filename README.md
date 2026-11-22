@@ -202,8 +202,7 @@ Potential future additions include:
 
 ---
 
-## The Idea
-
-**Simulate it. Detect it. Investigate it. Stop it.**
-
-Welcome to InAPickL.
+<div align="center">
+    <p><b>Create and get out of the pickle</b></p>
+    <image src="assets/InAPickL_Logo.png" width = 45></image>
+</div>
