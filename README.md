@@ -1,6 +1,6 @@
 # InAPickL
 <div align="center">
-  <image src="assets/InAPickL_Logo.png" width=250>
+  <image src="assets/InAPickL_Logo.png" width=80>
   </image>
 </div>
 
