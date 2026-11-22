@@ -147,7 +147,7 @@ Install the following:
 ### Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/28-aditya/InAPickL.git
 cd InAPickL
 ```
 
