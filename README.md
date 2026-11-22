@@ -1,3 +1,7 @@
+<div align="center">
+  <image src="assets/InAPickL_Logo.png">
+  </image>
+</div>
 # InAPickL
 
 ### An experimental cyberattack simulation and detection laboratory.
